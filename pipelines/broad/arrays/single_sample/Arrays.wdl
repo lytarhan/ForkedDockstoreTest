@@ -1,4 +1,6 @@
-version 1.1
+version 1.0
+
+## Test 1
 
 import "../../../../pipelines/broad/genotyping/illumina/IlluminaGenotypingArray.wdl" as IlluminaGenotyping
 import "../../../../tasks/broad/InternalArraysTasks.wdl" as InternalArraysTasks
